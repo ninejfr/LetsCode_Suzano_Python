@@ -1,2 +1,2 @@
-# LetsCode_Suzano_Pyton
+# LetsCode_Suzano_Python
 Pyton - Exercícios e Projetos
